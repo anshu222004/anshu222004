@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/anshu222004">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Engineer;Python%20Developer;Deep%20Learning%20Enthusiast;Building%20Intelligent%20Solutions&center=true&width=700&height=45">
+    <img src="https://github.com/anshu222004/anshu222004/blob/main/Screenshot%202026-06-16%20202521.png;Python%20Developer;Deep%20Learning%20Enthusiast;Building%20Intelligent%20Solutions&center=true&width=700&height=45">
   </a>
 </p>
 
